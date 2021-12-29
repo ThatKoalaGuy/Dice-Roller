@@ -1,0 +1,15 @@
+C:\Users\Domen\source\repos\Dice Roller\bin\Debug\net6.0\Dice Roller.exe
+C:\Users\Domen\source\repos\Dice Roller\bin\Debug\net6.0\Dice Roller.deps.json
+C:\Users\Domen\source\repos\Dice Roller\bin\Debug\net6.0\Dice Roller.runtimeconfig.json
+C:\Users\Domen\source\repos\Dice Roller\bin\Debug\net6.0\Dice Roller.dll
+C:\Users\Domen\source\repos\Dice Roller\bin\Debug\net6.0\ref\Dice Roller.dll
+C:\Users\Domen\source\repos\Dice Roller\bin\Debug\net6.0\Dice Roller.pdb
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.csproj.AssemblyReference.cache
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.AssemblyInfoInputs.cache
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.AssemblyInfo.cs
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.dll
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\ref\Dice Roller.dll
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.pdb
+C:\Users\Domen\source\repos\Dice Roller\obj\Debug\net6.0\Dice Roller.genruntimeconfig.cache
